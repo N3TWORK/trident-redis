@@ -1,5 +1,6 @@
-package storm.trident.redis;
+package com.n3twork.storm;
 
+import com.n3twork.storm.RedisState;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

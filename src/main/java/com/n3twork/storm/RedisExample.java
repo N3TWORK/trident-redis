@@ -1,4 +1,4 @@
-package storm.trident.redis;
+package com.n3twork.storm;
 
 import java.net.InetSocketAddress;
 
